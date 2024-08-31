@@ -14,8 +14,8 @@ const HomePage = () => {
           className='rounded-full'
           priority
         />
-        <h1 className='text-xl font-semibold'>AI</h1>
-        <p className='text-[#a1a1a1]'>Samson2000 AI Bot</p>
+        <h1 className='text-xl font-semibold'>Samson2000</h1>
+        <p className='text-[#a1a1a1]'>Telgram AI Chat Bot</p>
       </div>
       <div className='flex flex-col gap-4 py-3'>
         <span className='text-center'>Thank you for subscribing!</span>
